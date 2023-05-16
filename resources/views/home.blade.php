@@ -59,8 +59,8 @@
 
 
 <!-- ================> Mint section start here <================== -->
-<section id="mint" class="mint padding-top padding-bottom bg--cover"
-    style="background-image: url({{ asset('images/mint/bg.jpg') }});" id="tokenomics">
+<section id="tokenomics" class="mint padding-top padding-bottom bg--cover"
+    style="background-image: url({{ asset('images/mint/bg.jpg') }});">
     <div class="container">
         <div class="mint__wrapper">
             <div class="row g-5 align-items-end">
