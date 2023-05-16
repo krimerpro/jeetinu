@@ -10,7 +10,7 @@
 <header class="header">
     <div class="container">
         <nav class="navbar navbar-expand-xl">
-            <a class="navbar-brand" href="index.html"><img src="{{ asset('images/logo/logo.png') }}" alt="Niftyland"></a>
+            <a class="navbar-brand" href="#"><img src="{{ asset('images/logo/logo.png') }}" alt="Niftyland"></a>
             <button class="navbar-toggler collapsed" type="button" data-bs-toggle="collapse"
                 data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false"
                 aria-label="Toggle navigation">

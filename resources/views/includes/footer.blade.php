@@ -11,7 +11,7 @@
                                 alt="Discord"></a>
                     </li>
                     <li class="social__item">
-                        <a href="#" class="social__link"><img src="{{ asset('images/social/twitter.png') }}"
+                        <a href="https://twitter.com/JeetInuOfficial" class="social__link"><img src="{{ asset('images/social/twitter.png') }}"
                                 alt="Twitter"></a>
                     </li>
                     <li class="social__item">

@@ -18,7 +18,7 @@
                                         alt="Discord"></a>
                             </li>
                             <li class="social__item">
-                                <a href="#" class="social__link"><img src="{{ asset('images/social/twitter.png') }}"
+                                <a href="https://twitter.com/JeetInuOfficial" class="social__link"><img src="{{ asset('images/social/twitter.png') }}"
                                         alt="Twitter"></a>
                             </li>
                             <li class="social__item">
@@ -96,7 +96,7 @@
                             </div>
                             <div class="col-6">
                                 <div class="text-start">
-                                    <a href="https://pancakeswap.finance/swap?outputCurrency=" class="default-btn">Buy Now</a>
+                                    <a href="https://pancakeswap.finance/swap?outputCurrency=0x16f3DE540144610ffb1949589E4B6B8C20D6383D" class="default-btn">Buy Now</a>
                                 </div>
                             </div>
                         </div>
