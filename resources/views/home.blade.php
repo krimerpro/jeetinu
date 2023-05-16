@@ -34,7 +34,7 @@
                                         alt="Youtube"></a>
                             </li>
                         </ul>
-                        <a href="#" class="default-btn">JOIN OUR TELEGRAM GROUP</a>
+                        <a href="https://t.me/JeetInuPortal" class="default-btn">JOIN OUR TELEGRAM GROUP</a>
                     </div>
                 </div>
             </div>
