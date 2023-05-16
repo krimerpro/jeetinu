@@ -3,36 +3,18 @@
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-<meta name="description" content="AI ERUDEX | MACHINE LEARNING">
-<meta name="keywords" content="ai, erudex, smartchain, machinelearning, blockchain, cryptocurrency, bsc">
-<meta name="author" content="ERUDEX">
+<meta name="description" content="JEET INU | BNB CHAIN">
+<meta name="keywords" content="jeet, inu, jeetinu, smartchain, blockchain, cryptocurrency, bsc">
+<meta name="author" content="JEETINU">
 
-<title>AI ERUDEX | MACHINE LEARNING</title>
-<link rel="icon" type="image/x-icon" href="{{ asset('images/favicon.png') }}" sizes="16x16">
+<title>JEET INU | BNB CHAIN</title>
+<link rel="icon" type="image/x-icon" href="{{ asset('images/logo.png') }}" sizes="16x16">
 
-<!-- Fonts -->
-<link href="https://fonts.googleapis.com/css?family=Comfortaa:300,400,500,700" rel="stylesheet">
+<link rel="stylesheet" href="{{ asset('css/bootstrap.min.css') }}">
+<link rel="stylesheet" href="{{ asset('css/aos.css') }}">
+<link rel="stylesheet" href="{{ asset('css/all.min.css') }}">
+<link rel="stylesheet" href="{{ asset('css/lightcase.css') }}">
+<link rel="stylesheet" href="{{ asset('css/swiper-bundle.min.css') }}">
 
-<link href="{{ asset('css/font-awesome.min.css') }}" rel="stylesheet">
-
-<!-- bootstrap css -->
-<link rel="stylesheet" href="{{ asset('css/bootstrap.min.css') }}" type="text/css" media="all" />
-<!-- animate css -->
-<link rel="stylesheet" href="{{ asset('css/animate.min.css') }}" type="text/css" media="all" />
-<!-- owl carousel css -->
-<link rel="stylesheet" href="{{ asset('css/owl.carousel.min.css') }}"  type="text/css" media="all" />
-<link rel="stylesheet" href="{{ asset('css/owl.theme.default.min.css') }}"  type="text/css" media="all" />
-<!-- meanmenu css -->
-<link rel="stylesheet" href="{{ asset('css/meanmenu.min.css') }}" type="text/css" media="all" />
-<!-- magnific popup css -->
-<link rel="stylesheet" href="{{ asset('css/magnific-popup.min.css') }}" type="text/css" media="all" />
-<!-- boxicons css -->
-<link rel='stylesheet' href="{{ asset('css/icofont.min.css') }}" type="text/css" media="all" />
-<!-- flaticon css -->
-<link rel='stylesheet' href="{{ asset('css/flaticon.css') }}" type="text/css" media="all" />
-<!-- nice select css -->
-<link rel="stylesheet" href="{{ asset('css/nice-select.css') }}" type="text/css" media="all" />
-<!-- style css -->
-<link rel="stylesheet" href="{{ asset('css/style.css') }}" type="text/css" media="all" />
-<!-- responsive css -->
-<link rel="stylesheet" href="{{ asset('css/responsive.css') }}" type="text/css" media="all" />
+<!-- main css for template -->
+<link rel="stylesheet" href="{{ asset('css/style.css') }}">

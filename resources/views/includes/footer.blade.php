@@ -1,90 +1,52 @@
-<!-- Footer -->
-<footer class="bg-off-white footer">
-    <div class="footer-lower bg-blue position-relative">
+<!-- ================> Footer section start here <================== -->
+<footer class="footer">
+    <div class="footer__wrapper padding-top padding-bottom aos-animate aos-ini" data-aos="fade-up"
+        data-aos-duration="1000">
         <div class="container">
-            <div class="footer-copyright-text footer-copyright-text-white">
-                <p>Copyright ©2023 Erudex. Designed & Developed By <span style="color:blue;font-weight:bold">Erudex Team</span></a></p>
-            </div>
-        </div>
-    </div>
-</footer>
-<!-- Footer -->
-
-<!-- Scroll-top -->
-<div class="scroll-top" id="scrolltop">
-    <div class="scroll-top-inner">
-        <i class="icofont-long-arrow-up"></i>
-    </div>
-</div>
-<!-- Scroll-top -->
-
-<!-- Topbar-side-modal -->
-<div class="side-modal-wrapper">
-    <div class="side-modal">
-        <div class="side-modal-header">
-            <div class="side-modal-logo">
-                <a href="#"><img src="{{ asset('images/logo.png') }}" alt="logo"></a>
-            </div>
-            <div class="side-modal-close">
-                <i class="icofont-close"></i>
-            </div>
-        </div>
-        <div class="side-modal-body">
-            <div class="sidebar-info-content">
-                <h3>Follow Us</h3>
-                <ul class="social-list">
-                    <li>
-                        <a href="https://twitter.com/ErudexAI" target="_blank"><i class="icofont-twitter"></i></a>
+            <div class="footer__content text-center t">
+                <h2 class="color--gradient-y">Follow Us!</h2>
+                <ul class="social justify-content-center">
+                    <li class="social__item">
+                        <a href="#" class="social__link"><img src="{{ asset('images/social/discord.png') }}"
+                                alt="Discord"></a>
                     </li>
-                    <li>
-                        <a href="https://t.me/ErudexAiPortal" target="_blank"><i class="icofont-paper-plane"></i></a>
+                    <li class="social__item">
+                        <a href="#" class="social__link"><img src="{{ asset('images/social/twitter.png') }}"
+                                alt="Twitter"></a>
+                    </li>
+                    <li class="social__item">
+                        <a href="#" class="social__link"><img src="{{ asset('images/social/instagram.png') }}"
+                                alt="Instagram"></a>
+                    </li>
+                    <li class="social__item">
+                        <a href="#" class="social__link"><img src="{{ asset('images/social/twitch.png') }}"
+                                alt="Twitch"></a>
+                    </li>
+                    <li class="social__item">
+                        <a href="#" class="social__link"><img src="{{ asset('images/social/youtube.png') }}"
+                                alt="Youtube"></a>
                     </li>
                 </ul>
             </div>
         </div>
     </div>
-</div>
-<!-- Topbar-side-modal -->
-
-<!-- Search-overlay -->
-<div class="search-overlay">
-    <div class="search-close">
-        <i class="icofont-close"></i>
-    </div>
-    <div class="search-form-area">
-        <div class="search-area-logo">
-            <a href="#">
-                <img src="{{ asset('images/logo-white.png') }}" alt="logo">
-            </a>
-        </div>
-        <form>
-            <div class="form-group search-form-group">
-                <input type="text" placeholder="Search..." class="form-control" autofocus="autofocus">
-                <button>
-                    <i class="icofont-search-1"></i>
-                </button>
+    <div class="footer__copyright">
+        <div class="container">
+            <div class="text-center py-4">
+                <p class=" mb-0">© 2023 JEET INU | All Rights Reserved <a href="#" class="color--theme-color">
+                        JEET TEAM</a> </p>
             </div>
-        </form>
+        </div>
     </div>
-</div>
-<!-- Search-overlay -->
+</footer>
+<!-- ================> Footer section end here <================== -->
 
-<!-- essential js -->
-<script data-cfasync="false" src="../../cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="{{ asset('/js/jquery.min.js') }}"></script>
-<script src="{{ asset('/js/bootstrap.bundle.min.js') }}"></script>
-<!-- magnific popup js -->
-<script src="{{ asset('/js/jquery.magnific-popup.min.js') }}"></script>
-<!-- owl carousel js -->
-<script src="{{ asset('/js/owl.carousel.min.js') }}"></script>
-<!-- nice select js -->
-<script src="{{ asset('/js/jquery.nice-select.min.js') }}"></script>
-<!-- form ajazchimp js -->
-<script src="{{ asset('/js/jquery.ajaxchimp.min.js') }}"></script>
-<!-- form validator js  -->
-<script src="{{ asset('/js/form-validator.min.js') }}"></script>
-<!-- contact form js -->
-<script src="{{ asset('/js/contact-form-script.js') }}"></script>
-<!-- meanmenu js -->
-<script src="{{ asset('/js/jquery.meanmenu.min.js') }}"></script>
-<!-- main js -->
-<script src="{{ asset('/js/script.js') }}"></script>
+<!-- vendor plugins -->
+<script src="{{ asset('js/jquery-3.6.0.min.js') }}"></script>
+<script src="{{ asset('js/bootstrap.bundle.min.js') }}"></script>
+<script src="{{ asset('js/all.min.js') }}"></script>
+<script src="{{ asset('js/swiper-bundle.min.js') }}"></script>
+<script src="{{ asset('js/aos.js') }}"></script>
+<script src="{{ asset('js/lightcase.js') }}"></script>
+<script src="{{ asset('js/countdown.min.js') }}"></script>
+<script src="{{ asset('js/custom.js') }}"></script>

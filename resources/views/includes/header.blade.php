@@ -1,97 +1,39 @@
-<!-- Preloader -->
+<!-- ===============>> Preloader start here <<================= -->
 <div class="preloader">
-    <div class="preloader-wrapper">
-        <div class="preloader-content">
-            <div class="blob-1"></div>
-          <div class="blob-2"></div>
-        </div>
-    </div>
+    <img src="{{ asset('images/logo/preloader.png') }}" alt="SuperHero">
 </div>
-<!-- Preloader -->
-<!-- Navbar -->
-<div class="fixed-top bg-white">
-    <div class="navbar-area sticky-black">
-        <div class="container">
-            <div class="mobile-nav">
-                <a href="#" class="mobile-brand">
-                    <img src="{{ asset('images/logo.png') }}" alt="logo" class="logo">
-                </a>
-                <div class="navbar-option">
-                    <div class="navbar-option-item">
-                        <button type="button">
-                            <i class="flaticon-user" ></i>
-                        </button>
-                    </div>
-                    <div class="navbar-option-item side-topbar-option">
-                        <button type="button">
-                            <i class="flaticon-grid" ></i>
-                        </button>
-                    </div>
-                    <div class="navbar-option-item">
-                        <button type="button" class="search-option">
-                            <i class="icofont-search-1"></i>
-                        </button>
-                    </div>
+<!-- ===============>> Preloader end here <<================= -->
+
+
+
+<!-- ================> header section start here <================== -->
+<header class="header">
+    <div class="container">
+        <nav class="navbar navbar-expand-xl">
+            <a class="navbar-brand" href="index.html"><img src="{{ asset('images/logo/logo.png') }}" alt="Niftyland"></a>
+            <button class="navbar-toggler collapsed" type="button" data-bs-toggle="collapse"
+                data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false"
+                aria-label="Toggle navigation">
+                <span class="navbar-toggler--icon"></span>
+            </button>
+            <div class="collapse navbar-collapse justify-content-end" id="navbarNavAltMarkup">
+                <div class="navbar-nav">
+                    <a class="nav-link" aria-current="page" href="#">Home</a>
+                    <a class="nav-link" href="#">Blog</a>
+                    <a class="nav-link" href="#">Coming soon!</a>
+                    <a class="nav-link" href="#">404</a>
+                    <a class="nav-link" href="#">Contact</a>
                 </div>
-            </div>
-        </div>
-        <div class="main-nav">
-            <div class="container">
-                <nav class="navbar navbar-expand-md navbar-light">
-                    <a class="navbar-brand" href="#">
-                        <img src="{{ asset('images/logo.png') }}" alt="logo" class="logo">
+                <div class="social-btns">
+
+                    <a href="https://pancakeswap.finance/swap?outputCurrency=" class="default-btn">
+                        <span>BUY $JEET NOW</span>
                     </a>
-                    <div class="collapse navbar-collapse mean-menu" id="navbarSupportedContent">
-                        <ul class="navbar-nav mx-auto">
-                            <li class="nav-item">
-                                <a href="#" class="nav-link">HOME</a>
-                            </li>
-
-                            <li class="nav-item">
-                                <a href="#about" class="nav-link">ABOUT US</a>
-                            </li>
-
-                            <li class="nav-item">
-                                <a href="#services" class="nav-link">SERVICES</a>
-                            </li>
-
-                            <li class="nav-item">
-                                <a href="#projects" class="nav-link">PROJECTS</a>
-                            </li>
-
-                            <li class="nav-item">
-                                <a href="#news" class="nav-link">NEWS</a>
-                            </li>
-                        </ul>
-                    </div>
-                    <div class="navbar-option">
-                        <div class="navbar-option-item">
-                            <a href="#" class="btn main-btn">More Features</a>
-                        </div>
-                    </div>
-                </nav>
-            </div>
-        </div>
-    </div>
-</div>
-<!-- Navbar -->
-<!-- Header -->
-<header class="header header-bg header-bottom-space header-bg-image">
-    <div class="container-fluid p-lg-0 custom-container-fluid">
-        <div class="row m-lg-0 align-items-center">
-            <div class="col-lg-6 p-lg-0">
-                <div class="max-585 ms-lg-auto">
-                    <div class="header-content header-content-white m-0">
-                        <h1>Best Machine Learning Product Creator</h1>
-                        <p>Transforming businesses with Artificial Intelligence</p>
-                        <div class="button-group button-group-animated">
-                            <a href="https://poocoin.app/tokens/0x" class="btn main-btn">Poocoin Chart</a>
-                            <a href="https://t.me/ErudexAiPortal" class="btn main-btn main-btn-white">Telegram Group</a>
-                        </div>
-                    </div>
                 </div>
+
             </div>
-        </div>
+        </nav>
     </div>
+
 </header>
-<!-- Header -->
+<!-- ================> header section end here <================== -->
