@@ -19,10 +19,8 @@
             <div class="collapse navbar-collapse justify-content-end" id="navbarNavAltMarkup">
                 <div class="navbar-nav">
                     <a class="nav-link" aria-current="page" href="#">Home</a>
-                    <a class="nav-link" href="#">Blog</a>
-                    <a class="nav-link" href="#">Coming soon!</a>
-                    <a class="nav-link" href="#">404</a>
-                    <a class="nav-link" href="#">Contact</a>
+                    <a class="nav-link" href="#tokenomics">Tokenomics</a>
+                    <a class="nav-link" href="#roadmap">Roadmap</a>
                 </div>
                 <div class="social-btns">
 
