@@ -1,6 +1,6 @@
 <!-- ===============>> Preloader start here <<================= -->
 <div class="preloader">
-    <img src="{{ asset('images/logo/preloader.png') }}" alt="SuperHero">
+    <img src="{{ asset('images/logo/preloader.png') }}" alt="Jeet Logo">
 </div>
 <!-- ===============>> Preloader end here <<================= -->
 
