@@ -24,7 +24,7 @@
                 </div>
                 <div class="social-btns">
 
-                    <a href="https://pancakeswap.finance/swap?outputCurrency=" class="default-btn">
+                    <a href="https://pancakeswap.finance/swap?outputCurrency=0x3AcBcB60e5eb3dCf97C1F6c1085e0bDBd835b7B2" class="default-btn">
                         <span>BUY $JEET NOW</span>
                     </a>
                 </div>
