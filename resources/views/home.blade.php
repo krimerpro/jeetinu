@@ -71,7 +71,9 @@
                                 <div class="mint__item">
                                     <div class="mint__inner">
                                         <h6 class="mint__sub-title">Total Supply</h6>
-                                        <h2 class="mint__numbers">100 Million</h2>
+                                        <!-- <h2 class="mint__numbers">100 Million</h2> -->
+                                        <h2 class="mint__numbers">1 Quadrillion</h2>
+
                                         <h4 class="mint__name text-uppercase">$JEET</h4>
                                     </div>
                                 </div>
