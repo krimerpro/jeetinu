@@ -98,7 +98,7 @@
                             </div>
                             <div class="col-6">
                                 <div class="text-start">
-                                    <a href="https://pancakeswap.finance/swap?outputCurrency=0x" class="default-btn">Buy Now</a>
+                                    <a href="https://pancakeswap.finance/swap?outputCurrency=0x43f8C680FA3e6c07F364d16fB69deB114d5BA88F" class="default-btn">Buy Now</a>
                                 </div>
                             </div>
                         </div>
