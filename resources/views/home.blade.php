@@ -91,14 +91,14 @@
                                 <div class="mint__item">
                                     <div class="mint__inner">
                                         <h6 class="mint__sub-title">Max</h6>
-                                        <h2 class="mint__numbers">2%</h2>
+                                        <h2 class="mint__numbers">4%</h2>
                                         <h4 class="mint__name text-uppercase">Bag / Tx</h4>
                                     </div>
                                 </div>
                             </div>
                             <div class="col-6">
                                 <div class="text-start">
-                                    <a href="https://pancakeswap.finance/swap?outputCurrency=0x842A86d4F75Da7BE0F34a1B86eB4b9eAD7A02307" class="default-btn">Buy Now</a>
+                                    <a href="https://pancakeswap.finance/swap?outputCurrency=0x" class="default-btn">Buy Now</a>
                                 </div>
                             </div>
                         </div>
