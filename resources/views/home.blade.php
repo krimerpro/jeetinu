@@ -91,14 +91,14 @@
                                 <div class="mint__item">
                                     <div class="mint__inner">
                                         <h6 class="mint__sub-title">Max</h6>
-                                        <h2 class="mint__numbers">5%</h2>
+                                        <h2 class="mint__numbers">2%</h2>
                                         <h4 class="mint__name text-uppercase">Bag / Tx</h4>
                                     </div>
                                 </div>
                             </div>
                             <div class="col-6">
                                 <div class="text-start">
-                                    <a href="https://pancakeswap.finance/swap?outputCurrency=0x7Af6454A15Cc6D5d707e647813520d2d39dCC626" class="default-btn">Buy Now</a>
+                                    <a href="https://www.dextools.io/app/en/ether/pair-explorer/" class="default-btn">$JEET CHART</a>
                                 </div>
                             </div>
                         </div>
@@ -140,7 +140,7 @@
                             </div>
                             <div class="roadmap__content">
                                 <h4>Launch Initiated</h4>
-                                <p>Fair launch on Pancakeswap</p>
+                                <p>Fair launch on Uniswap</p>
                                 <p>Website V1 Released</p>
                             </div>
                         </div>
@@ -170,7 +170,7 @@
                             </div>
                             <div class="roadmap__content">
                                 <h4>Trending</h4>
-                                <p>BSC Trending</p>
+                                <p>Moontok Promotion</p>
                                 <p>Dextools Trending</p>
                             </div>
                         </div>

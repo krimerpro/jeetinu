@@ -24,8 +24,8 @@
                 </div>
                 <div class="social-btns">
 
-                    <a href="https://pancakeswap.finance/swap?outputCurrency=0x7Af6454A15Cc6D5d707e647813520d2d39dCC626" class="default-btn">
-                        <span>BUY $JEET NOW</span>
+                    <a href="https://www.dextools.io/app/en/ether/pair-explorer/" class="default-btn">
+                        <span>$JEET CHART</span>
                     </a>
                 </div>
 
