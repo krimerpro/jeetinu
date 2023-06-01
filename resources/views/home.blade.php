@@ -98,7 +98,7 @@
                             </div>
                             <div class="col-6">
                                 <div class="text-start">
-                                    <a href="https://www.dextools.io/app/en/ether/pair-explorer/" class="default-btn">$JEET CHART</a>
+                                    <a href="https://www.dextools.io/app/en/ether/pair-explorer/0xbe00fa9ebb60016bb2815054c9529519ff5a4b89" class="default-btn">$JEET CHART</a>
                                 </div>
                             </div>
                         </div>
