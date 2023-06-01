@@ -24,7 +24,7 @@
                 </div>
                 <div class="social-btns">
 
-                    <a href="https://www.dextools.io/app/en/ether/pair-explorer/0xbe00fa9ebb60016bb2815054c9529519ff5a4b89" class="default-btn">
+                    <a href="https://poocoin.app/tokens/" class="default-btn">
                         <span>$JEET CHART</span>
                     </a>
                 </div>
