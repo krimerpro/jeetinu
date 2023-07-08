@@ -98,7 +98,7 @@
                             </div>
                             <div class="col-6">
                                 <div class="text-start">
-                                    <a href="https://poocoin.app/tokens/0x" class="default-btn">$JEET CHART</a>
+                                    <a href="https://poocoin.app/tokens/0xe19CA2EAec4aec85658ed3d5A705181c1319A2d3" class="default-btn">$JEET CHART</a>
                                 </div>
                             </div>
                         </div>

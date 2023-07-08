@@ -24,7 +24,7 @@
                 </div>
                 <div class="social-btns">
 
-                    <a href="https://poocoin.app/tokens/0x" class="default-btn">
+                    <a href="https://poocoin.app/tokens/0xe19CA2EAec4aec85658ed3d5A705181c1319A2d3" class="default-btn">
                         <span>$JEET CHART</span>
                     </a>
                 </div>
