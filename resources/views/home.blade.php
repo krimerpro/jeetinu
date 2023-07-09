@@ -82,7 +82,7 @@
                                 <div class="mint__item">
                                     <div class="mint__inner">
                                         <h6 class="mint__sub-title">Tax</h6>
-                                        <h2 class="mint__numbers">4% | 4%</h2>
+                                        <h2 class="mint__numbers">2% | 2%</h2>
                                         <h4 class="mint__name text-uppercase">Buy/Sell</h4>
                                     </div>
                                 </div>
@@ -91,14 +91,14 @@
                                 <div class="mint__item">
                                     <div class="mint__inner">
                                         <h6 class="mint__sub-title">Max</h6>
-                                        <h2 class="mint__numbers">2%</h2>
+                                        <h2 class="mint__numbers">4%</h2>
                                         <h4 class="mint__name text-uppercase">Bag / Tx</h4>
                                     </div>
                                 </div>
                             </div>
                             <div class="col-6">
                                 <div class="text-start">
-                                    <a href="https://poocoin.app/tokens/0xe19CA2EAec4aec85658ed3d5A705181c1319A2d3" class="default-btn">$JEET CHART</a>
+                                    <a href="https://poocoin.app/tokens/" class="default-btn">$JEET CHART</a>
                                 </div>
                             </div>
                         </div>
